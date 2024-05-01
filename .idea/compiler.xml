@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Annotation profile for weixue-system" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="$PROJECT_DIR$/../../../maven/repository_3.8.4/org/projectlombok/lombok/1.18.8/lombok-1.18.8.jar" />
+        </processorPath>
+        <module name="weixue-base" />
+        <module name="weixue-content-api" />
+        <module name="weixue-generator" />
+        <module name="weixue-system-model" />
+        <module name="weixue-content-model" />
+        <module name="weixue-content-service" />
+        <module name="weixue-system-service" />
+        <module name="weixue-system-api" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="weixue-base" target="1.8" />
+      <module name="weixue-content" target="1.8" />
+      <module name="weixue-content-api" target="1.8" />
+      <module name="weixue-content-model" target="1.8" />
+      <module name="weixue-content-service" target="1.8" />
+      <module name="weixue-generator" target="1.8" />
+      <module name="weixue-parent" target="1.8" />
+      <module name="weixue-system" target="1.8" />
+      <module name="weixue-system-api" target="1.8" />
+      <module name="weixue-system-model" target="1.8" />
+      <module name="weixue-system-service" target="1.8" />
+      <module name="xuecheng-plus-generator" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

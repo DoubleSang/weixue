@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/weixue-parent/pom.xml" />
+        <option value="$PROJECT_DIR$/weixue-base/pom.xml" />
+        <option value="$PROJECT_DIR$/weixue-content/pom.xml" />
+        <option value="$PROJECT_DIR$/weixue-content/weixue-content-model/pom.xml" />
+        <option value="$PROJECT_DIR$/weixue-content/weixue-content-service/pom.xml" />
+        <option value="$PROJECT_DIR$/weixue-content/weixue-content-api/pom.xml" />
+        <option value="$PROJECT_DIR$/weixue-generator/pom.xml" />
+        <option value="$PROJECT_DIR$/weixue-system/pom.xml" />
+        <option value="$PROJECT_DIR$/weixue-system/weixue-system-model/pom.xml" />
+        <option value="$PROJECT_DIR$/weixue-system/weixue-system-service/pom.xml" />
+        <option value="$PROJECT_DIR$/weixue-system/weixue-system-api/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_16" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

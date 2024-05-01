@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/weixue.iml" filepath="$PROJECT_DIR$/.idea/weixue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/weixue-base/weixue-base.iml" filepath="$PROJECT_DIR$/weixue-base/weixue-base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/weixue-content/weixue-content.iml" filepath="$PROJECT_DIR$/weixue-content/weixue-content.iml" />
+      <module fileurl="file://$PROJECT_DIR$/weixue-content/weixue-content-api/weixue-content-api.iml" filepath="$PROJECT_DIR$/weixue-content/weixue-content-api/weixue-content-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/weixue-content/weixue-content-model/weixue-content-model.iml" filepath="$PROJECT_DIR$/weixue-content/weixue-content-model/weixue-content-model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/weixue-content/weixue-content-service/weixue-content-service.iml" filepath="$PROJECT_DIR$/weixue-content/weixue-content-service/weixue-content-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/weixue-generator/weixue-generator.iml" filepath="$PROJECT_DIR$/weixue-generator/weixue-generator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/weixue-parent/weixue-parent.iml" filepath="$PROJECT_DIR$/weixue-parent/weixue-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/weixue-system/weixue-system.iml" filepath="$PROJECT_DIR$/weixue-system/weixue-system.iml" />
+      <module fileurl="file://$PROJECT_DIR$/weixue-system/weixue-system-api/weixue-system-api.iml" filepath="$PROJECT_DIR$/weixue-system/weixue-system-api/weixue-system-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/weixue-system/weixue-system-model/weixue-system-model.iml" filepath="$PROJECT_DIR$/weixue-system/weixue-system-model/weixue-system-model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/weixue-system/weixue-system-service/weixue-system-service.iml" filepath="$PROJECT_DIR$/weixue-system/weixue-system-service/weixue-system-service.iml" />
+    </modules>
+  </component>
+</project>

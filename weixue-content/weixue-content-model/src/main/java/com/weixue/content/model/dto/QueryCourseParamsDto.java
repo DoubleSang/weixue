@@ -1,12 +1,16 @@
 package com.weixue.content.model.dto;
 
 import io.swagger.annotations.ApiModelProperty;
+import lombok.Data;
+import lombok.ToString;
 
 /**
  * @Author: Sang
  * @Date: 2024/04/19/12:37
  * @Description:课程查询条件模型类
  */
+@Data
+@ToString
 public class QueryCourseParamsDto {
     //审核状态
     @ApiModelProperty(value = "审核状态")
