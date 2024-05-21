@@ -1,5 +1,6 @@
 package com.weixue.content.model.dto;
 
+import com.weixue.content.model.po.CourseBase;
 import lombok.Data;
 
 /**
@@ -8,7 +9,7 @@ import lombok.Data;
  * @Description: 课程基本信息dto
  */
 @Data
-public class CourseBaseInfoDto {
+public class CourseBaseInfoDto extends CourseBase {
 
 
     /**
